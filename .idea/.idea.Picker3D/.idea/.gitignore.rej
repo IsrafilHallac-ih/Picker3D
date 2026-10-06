@@ -1,0 +1,17 @@
+diff a/.idea/.idea.Picker3D/.idea/.gitignore b/.idea/.idea.Picker3D/.idea/.gitignore	(rejected hunks)
+@@ -0,0 +1,15 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Rider ignored files
++/modules.xml
++/contentModel.xml
++/projectSettingsUpdater.xml
++/.idea.Picker3D.iml
++# Ignored default folder with query files
++/queries/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
